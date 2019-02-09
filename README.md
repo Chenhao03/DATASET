@@ -1,0 +1,2 @@
+# DATASET
+he contactless fingerprint acquisition technologies have been introduced for better hygiene, security and to address problems with limited accuracy due to the deformations of fingerprint images while contact-based image acquisition. Significant degradation in matching accuracy is observed while using legacy fingerprint images to match with contactless fingerprint images. This two-session database from more than 55 clients using contactless and contact-based traditional sensors is provided in public domain to advance much needed research in this area.
